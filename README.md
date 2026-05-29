@@ -12,5 +12,5 @@ Alongside another Systems Engineering student, I co-founded ZettaWebSystems, a s
 
 I'm always open to learning from others, contributing to challenging projects, and growing as a developer. If you’re working on something interesting or think we could collaborate, feel free to connect.
 
-📸 [Instagram](https://instagram.com/julianfassetta)  
-👥 [ZettaWebSystems]([https://github.com/Trinity-UTN](https://github.com/Zetta-Web-Systems))
+📸 [Instagram](https://instagram.com/julianfassetta)
+👥 [ZettaWebSystems](https://github.com/Zetta-Web-Systems)
