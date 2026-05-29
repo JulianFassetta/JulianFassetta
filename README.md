@@ -14,3 +14,4 @@ I'm always open to learning from others, contributing to challenging projects, a
 
 📸 [Instagram](https://instagram.com/julianfassetta)
 👥 [ZettaWebSystems](https://github.com/Zetta-Web-Systems)
+💼 [LinkedIn](https://www.linkedin.com/in/julianfassetta/)
